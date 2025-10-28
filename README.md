@@ -67,6 +67,17 @@ Limitation:
 1. Thanks to the developers who wrote the [Cloudflare-Workers](https://github.com/topics/cloudflare-workers) core for vless proxy.
 2. Thanks to [BPB Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) for develop technology and new ideas.
 
+
+
+
+
+## Donations
+* USDT-TRC20 or TRX:
+```
+TEA6H5EgqVsUXF1A157pFhVgpgtcLp2BMa
+```
+
+
 ---
 
 <center><a href="https://github.com/liMilCo/Free-Internet"><img src="https://github.githubassets.com/favicons/favicon.png" style="vertical-align: middle;"> Free Internet  🐉</a></center>
